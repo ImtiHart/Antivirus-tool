@@ -1,0 +1,298 @@
+
+
+Date: 2025-10-13
+Time Stamp: 16:58:57.629791800
+Absolute Path: C:\Sandbox
+Folder Name: Sandbox
+Scanned Files: 866
+InfectedFiles: 39
+Status: complete
+Scan Type: custom
+Total Files Size: 165982187
+Scan Duration: 31
+
+Date: 2025-10-13
+Time Stamp: 17:06:37.117692900
+Absolute Path: C:\Sandbox
+Folder Name: Sandbox
+Scanned Files: 866
+InfectedFiles: 35
+Status: complete
+Scan Type: custom
+Total Files Size: 165982187
+Scan Duration: 9
+
+Date: 2025-10-13
+Time Stamp: 17:06:57.851734900
+Absolute Path: C:\Sandbox
+Folder Name: Sandbox
+Scanned Files: 866
+InfectedFiles: 35
+Status: complete
+Scan Type: custom
+Total Files Size: 165982187
+Scan Duration: 12
+
+Date: 2025-10-13
+Time Stamp: 17:08:20.731080200
+Absolute Path: C:\Sandbox
+Folder Name: Sandbox
+Scanned Files: 866
+InfectedFiles: 35
+Status: complete
+Scan Type: custom
+Total Files Size: 165982187
+Scan Duration: 39
+
+Date: 2025-10-13
+Time Stamp: 17:12:34.388067800
+Absolute Path: C:\Sandbox2\Word Macro Files
+Folder Name: Word Macro Files
+Scanned Files: 6
+InfectedFiles: 6
+Status: complete
+Scan Type: custom
+Total Files Size: 112506
+Scan Duration: 36
+
+Date: 2025-10-13
+Time Stamp: 17:13:30.777813500
+Absolute Path: C:\Sandbox2\Word Macro Files
+Folder Name: Word Macro Files
+Scanned Files: 6
+InfectedFiles: 6
+Status: complete
+Scan Type: custom
+Total Files Size: 112506
+Scan Duration: 31
+
+Date: 2025-10-13
+Time Stamp: 17:21:39.171400500
+Absolute Path: C:\Sandbox2
+Folder Name: Sandbox2
+Scanned Files: 340
+InfectedFiles: 196
+Status: complete
+Scan Type: custom
+Total Files Size: 11191936587
+Scan Duration: 10
+
+Date: 2025-10-13
+Time Stamp: 17:21:40.714649200
+Absolute Path: C:\Sandbox2
+Folder Name: Sandbox2
+Scanned Files: 340
+InfectedFiles: 196
+Status: complete
+Scan Type: custom
+Total Files Size: 11191936587
+Scan Duration: 12
+
+Date: 2025-10-13
+Time Stamp: 17:26:41.904096
+Absolute Path: C:\Sandbox2
+Folder Name: Sandbox2
+Scanned Files: 337
+InfectedFiles: 163
+Status: complete
+Scan Type: custom
+Total Files Size: 11191936587
+Scan Duration: 273
+
+Date: 2025-10-13
+Time Stamp: 17:28:00.465203700
+Absolute Path: C:\Sandbox2
+Folder Name: Sandbox2
+Scanned Files: 336
+InfectedFiles: 162
+Status: complete
+Scan Type: custom
+Total Files Size: 11191936587
+Scan Duration: 213
+
+Date: 2025-10-13
+Time Stamp: 17:36:56.708253800
+Absolute Path: C:\Sandbox2
+Folder Name: Sandbox2
+Scanned Files: 336
+InfectedFiles: 334
+Status: complete
+Scan Type: custom
+Total Files Size: 11191936675
+Scan Duration: 250
+
+Date: 2025-10-13
+Time Stamp: 17:43:32.395879600
+Absolute Path: C:\Sandbox2
+Folder Name: Sandbox2
+Scanned Files: 336
+InfectedFiles: 334
+Status: complete
+Scan Type: custom
+Total Files Size: 11191936675
+Scan Duration: 185
+
+Date: 2025-10-13
+Time Stamp: 17:56:04.718076
+Absolute Path: C:\Sandbox6
+Folder Name: Sandbox6
+Scanned Files: 3
+InfectedFiles: 3
+Status: complete
+Scan Type: custom
+Total Files Size: 17286359300
+Scan Duration: 174
+
+Date: 2025-10-13
+Time Stamp: 18:01:18.185707
+Absolute Path: C:\Sandbox6
+Folder Name: Sandbox6
+Scanned Files: 3
+InfectedFiles: 3
+Status: complete
+Scan Type: custom
+Total Files Size: 17286359300
+Scan Duration: 182
+
+Date: 2025-10-13
+Time Stamp: 18:05:57.196944400
+Absolute Path: C:\Sandbox6
+Folder Name: Sandbox6
+Scanned Files: 3
+InfectedFiles: 3
+Status: complete
+Scan Type: custom
+Total Files Size: 17286359300
+Scan Duration: 205
+
+Date: 2025-10-13
+Time Stamp: 18:12:58.337347
+Absolute Path: C:\Sandbox7
+Folder Name: Sandbox7
+Scanned Files: 8647
+InfectedFiles: 1020
+Status: complete
+Scan Type: custom
+Total Files Size: 3444283879
+Scan Duration: 241
+
+Date: 2025-10-13
+Time Stamp: 18:18:51.333991400
+Absolute Path: C:\Sandbox7
+Folder Name: Sandbox7
+Scanned Files: 8647
+InfectedFiles: 2907
+Status: complete
+Scan Type: custom
+Total Files Size: 3444283879
+Scan Duration: 110
+
+Date: 2025-10-13
+Time Stamp: 18:45:04.155191700
+Absolute Path: C:\Sandbox
+Folder Name: Sandbox
+Scanned Files: 866
+InfectedFiles: 39
+Status: complete
+Scan Type: custom
+Total Files Size: 165982187
+Scan Duration: 35
+
+Date: 2025-10-13
+Time Stamp: 19:06:54.288189400
+Absolute Path: C:\Sandbox2\JAR Files
+Folder Name: JAR Files
+Scanned Files: 282
+InfectedFiles: 282
+Status: complete
+Scan Type: custom
+Total Files Size: 340275132
+Scan Duration: 29
+
+Date: 2025-10-13
+Time Stamp: 19:19:00.815976100
+Absolute Path: C:\Sandbox6
+Folder Name: Sandbox6
+Scanned Files: 3
+InfectedFiles: 3
+Status: complete
+Scan Type: custom
+Total Files Size: 17286359300
+Scan Duration: 271
+
+Date: 2025-10-13
+Time Stamp: 19:38:30.592774200
+Absolute Path: C:\Sandbox2
+Folder Name: Sandbox2
+Scanned Files: 60
+InfectedFiles: 58
+Status: complete
+Scan Type: custom
+Total Files Size: 10854803748
+Scan Duration: 363
+
+Date: 2025-10-13
+Time Stamp: 19:40:11.742632100
+Absolute Path: C:\Sandbox
+Folder Name: Sandbox
+Scanned Files: 830
+InfectedFiles: 3
+Status: complete
+Scan Type: custom
+Total Files Size: 17183263
+Scan Duration: 8
+
+Date: 2025-10-13
+Time Stamp: 20:17:25.992860100
+Absolute Path: C:\Sandbox3
+Folder Name: Sandbox3
+Scanned Files: 336
+InfectedFiles: 332
+Status: complete
+Scan Type: custom
+Total Files Size: 11191936587
+Scan Duration: 156
+
+Date: 2025-10-13
+Time Stamp: 20:21:57.263074500
+Absolute Path: C:\Sandbox2
+Folder Name: Sandbox2
+Scanned Files: 60
+InfectedFiles: 58
+Status: complete
+Scan Type: custom
+Total Files Size: 10854803748
+Scan Duration: 176
+
+Date: 2025-10-13
+Time Stamp: 20:34:16.564293400
+Absolute Path: C:\Sandbox2
+Folder Name: Sandbox2
+Scanned Files: 2
+InfectedFiles: 0
+Status: complete
+Scan Type: custom
+Total Files Size: 142
+Scan Duration: 1
+
+Date: 2025-10-13
+Time Stamp: 20:34:46.077349100
+Absolute Path: C:\Sandbox
+Folder Name: Sandbox
+Scanned Files: 830
+InfectedFiles: 3
+Status: complete
+Scan Type: custom
+Total Files Size: 17183263
+Scan Duration: 6
+
+Date: 2025-10-13
+Time Stamp: 20:35:16.792925300
+Absolute Path: C:\Sandbox
+Folder Name: Sandbox
+Scanned Files: 830
+InfectedFiles: 3
+Status: complete
+Scan Type: custom
+Total Files Size: 17183263
+Scan Duration: 5
